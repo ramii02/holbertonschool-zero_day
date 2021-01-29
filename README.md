@@ -1,1 +1,1 @@
-first project in holberton
+first project in school 
